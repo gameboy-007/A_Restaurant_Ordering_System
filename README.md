@@ -12,32 +12,32 @@ NodeJS with Express is used as framework for the development of the application.
 
 ## Screenshots
 
-posting a new review for a dish by POST request
+1. posting a new review for a dish by POST request
 ![posting a new review for a dish by POST request](./screenshots/screenshot_1.jpg)
 
-getting the posted review by GET request
+2. getting the posted review by GET request
 ![getting the posted review by GET request](./screenshots/screenshot_2.jpg)
 
-deleting all the comments using DELETE request
+3. deleting all the comments using DELETE request
 ![deleting all the comments using DELETE request](./screenshots/screenshot_3.jpg)
 
-displaying all comments for a particular dish by its id
+4. displaying all comments for a particular dish by its id
 ![displaying all comments for a particular dish by its id](./screenshots/screenshot_4.jpg)
 
-adding a new comment using POST
+5. adding a new comment using POST
 ![adding a new comment using POST](./screenshots/screenshot_5_a.jpg)
 
-pic showing that comment is added
+6. pic showing that comment is added
 ![pic showing that comment is added](./screenshots/screenshot_5_b.jpg)
 
-getting a particular comment by its id using GET
+7. getting a particular comment by its id using GET
 ![getting a particular comment by its id using GET](./screenshots/screenshot_6.jpg)
 
-updating the previous comment added using PUT
+8. updating the previous comment added using PUT
 ![updating the previous comment added using PUT](./screenshots/screenshot_7_a.jpg)
 
-pic showing updated commment
+9. pic showing updated commment
 ![pic showing updated commment](./screenshots/screenshot_7_b.jpg)
 
-deleting all the comments using DELETE
+10. deleting all the comments using DELETE
 ![deleting all the comments using DELETE](./screenshots/screenshot_8.jpg)
