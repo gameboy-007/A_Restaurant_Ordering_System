@@ -12,22 +12,22 @@ NodeJS with Express is used as framework for the development of the application.
 
 ## Screenshots
 
-![posting a new review for a dish by POST request](./screenshots/screenshot_1)
+![posting a new review for a dish by POST request](./screenshots/screenshot_1.jpg)
 
-[getting the posted review by GET request](./screenshots/screenshot_2)
+[getting the posted review by GET request](./screenshots/screenshot_2.jpg)
 
-[deleting all the comments using DELETE request](./screenshots/screenshot_3)
+[deleting all the comments using DELETE request](./screenshots/screenshot_3.jpg)
 
-[displaying all comments for a particular dish by its id](./screenshots/screenshot_4)
+[displaying all comments for a particular dish by its id](./screenshots/screenshot_4.jpg)
 
-[adding a new comment using POST](./screenshots/screenshot_5_a)
+[adding a new comment using POST](./screenshots/screenshot_5_a.jpg)
 
-[pic showing that comment is added](./screenshots/screenshot_5_b)
+[pic showing that comment is added](./screenshots/screenshot_5_b.jpg)
 
-[getting a particular comment by its id using GET](./screenshots/screenshot_6)
+[getting a particular comment by its id using GET](./screenshots/screenshot_6.jpg)
 
-[updating the previous comment added using PUT](./screenshots/screenshot_7_a)
+[updating the previous comment added using PUT](./screenshots/screenshot_7_a.jpg)
 
-[pic showing updated commment](./screenshots/screenshot_7_b)
+[pic showing updated commment](./screenshots/screenshot_7_b.jpg)
 
-[deleting all the comments using DELETE](./screenshots/screenshot_8)
+[deleting all the comments using DELETE](./screenshots/screenshot_8.jpg)
