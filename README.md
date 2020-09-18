@@ -12,9 +12,6 @@ NodeJS with Express is used as framework for the development of the application.
 
 ## Screenshots
 
-![api for posting screen details](https://user-images.githubusercontent.com/20878070/46921575-c05f5380-d01a-11e8-9ada-e8b1a25ee54c.png)
-API for posting screen(movie) details
-
 [posting a new review for a dish by POST request][img]https://i.postimg.cc/sBrYVdtF/screenshot.jpg[/img][/url]
 
 [getting the posted review by GET request][img]https://i.postimg.cc/y3k9fVSR/screenshot-2.jpg[/img][/url]
